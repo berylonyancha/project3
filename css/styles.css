@@ -4,8 +4,7 @@ header{
   height: 120vh;
   background-position: center;
   background-repeat: no-repeat;
-
-
+  color: white;
 }
 #top{
   margin-top: 40px;
@@ -13,4 +12,15 @@ header{
 }
 #mouse{
   margin-top: 170px;
+}
+.about{
+text-align: center;
+}
+.services{
+  background: url(../assets/backgrounds/s_image.jpg);
+  text-align: center;
+  color: white;
+}
+.what-we-do{
+  text-align: center
 }
