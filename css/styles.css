@@ -38,3 +38,13 @@ padding: 35px;
 .contact-form{
   background: url(../assets/backgrounds/c_image.jpg)
 }
+.form{
+  background: transparent;
+}
+footer{
+  padding: 35px;
+}
+footer h6{
+  margin-top: 20px;
+  font-size: 12px;
+}
