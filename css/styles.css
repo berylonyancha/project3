@@ -36,10 +36,26 @@ padding: 35px;
 
 }
 .contact-form{
-  background: url(../assets/backgrounds/c_image.jpg)
+  background: url(../assets/backgrounds/c_image.jpg);
+  background-position: center;
+  background-size: cover;
+  padding:15vh;
+  color: white;
 }
-.form{
+h4{
+  margin-top: 40px;
+}
+.form-control{
   background: transparent;
+  width: 35%;
+  color: white;
+  border: 10px solid white
+  margin-right: 20px;
+}
+.message{
+  background: transparent;
+  margin-top: 30px;
+
 }
 footer{
   padding: 35px;
@@ -47,4 +63,7 @@ footer{
 footer h6{
   margin-top: 20px;
   font-size: 12px;
+}
+.text-showing{
+  display: none;
 }
