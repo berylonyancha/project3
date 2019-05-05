@@ -1,8 +1,8 @@
 # Delani Studio
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+#### This project is to teach us further implementation of Bootstrap and Jquery, 2019
+#### By **Beryl Onyancha**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+The project allows you to create a fictional studio landing page in which you use Bootstrap CSS JavaScript and Jquery to style it and make it functional.
 ## Installation Requirements
 You require a web browser to launch the website such as
 * Google Chrome
@@ -11,7 +11,8 @@ You require a web browser to launch the website such as
 
 ## Setup Instructions
 * On your web browser launch https://github.com/berylonyancha/project3 to access my github repository
-* 
+* Access the link in the description to view the live site
+* You may also clone the repository to your local machine and access all the files to make changes
 
 ## Technologies Used
 * HTML
@@ -20,10 +21,14 @@ You require a web browser to launch the website such as
 * Jquery
 * Bootstrap
 ## Support and contact details
+In case of any queries or any ideas to improve the project contact me at
+
+ berylonyancha@gmail.com
+ 
 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+ MIT license 
 <div align="center">
-    <img src="/triangle/screenshot.png/" width="400px">
+    <img src="../IP3/screenshot.png" width="400px">
 </div>
 Copyright (c) 2019 **Beryl Onyancha**
