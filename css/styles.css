@@ -11,6 +11,10 @@ header{
 #mouse{
   margin-top: 170px;
 }
+p{
+  font-size: 17px;
+  font-weight: 400;
+}
 .about{
 text-align: center;
 padding: 35px;
@@ -45,12 +49,16 @@ padding: 35px;
 h4{
   margin-top: 40px;
 }
-.form-control{
+.form{
   background: transparent;
-  width: 35%;
   color: white;
-  border: 10px solid white
-  margin-right: 20px;
+  border: 1px solid white;
+  margin-top: 20px;
+  
+}
+input{
+  width: 35%;
+  margin-right: 30px;
 }
 .message{
   background: transparent;
