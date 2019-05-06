@@ -1,3 +1,6 @@
+*{
+  box-sizing: border-box;
+}
 header{
   background: url(../assets/backgrounds/h_img.jpg);
   width: 100;
@@ -37,7 +40,10 @@ padding: 35px;
 }
 
 .col-md-3{
-
+ padding:5px;
+}
+.col-md-3 img{
+  width: 90%;
 }
 .contact-form{
   background: url(../assets/backgrounds/c_image.jpg);
@@ -48,6 +54,7 @@ padding: 35px;
 }
 h4{
   margin-top: 40px;
+  font-weight: bold;
 }
 .form{
   background: transparent;
