@@ -27,7 +27,7 @@ In case of any queries or any ideas to improve the project contact me at
  
 
 ### License
- MIT license 
+ MIT license https://github.com/berylonyancha/project3/blob/gh-pages/LICENSE
 <div align="center">
     <img src="../IP3/screenshot.png" width="400px">
 </div>
