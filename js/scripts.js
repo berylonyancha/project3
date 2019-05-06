@@ -8,8 +8,12 @@ $(document).ready(function() {
     alert("Thank you" + dataName + "for reaching out to us");
     event.preventDefault();
   });
-
+  $(".hover").fadeOut(500);
+  $(".col-md-3").hover(function(){
+    $(this).children(".hover").toggle(500);
+  });
 });
+
 
 
 

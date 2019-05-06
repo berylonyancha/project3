@@ -41,6 +41,8 @@ padding: 35px;
 
 .col-md-3{
  padding:5px;
+ position: relative;
+ overflow: hidden;
 }
 .col-md-3 img{
   width: 90%;
@@ -81,4 +83,16 @@ footer h6{
 }
 .text-showing{
   display: none;
+}
+.hover{
+  background: rgba(255, 255, 255, 0.445);
+  position: absolute;
+  width: 100%;
+  height:100%;
+  padding-top: 10vh;
+  box-sizing: border-box;
+  font-weight:bolder;
+  font-size:30px;
+  
+  
 }
